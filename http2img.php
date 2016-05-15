@@ -2,7 +2,7 @@
 /*
 Plugin Name: http2img
 Plugin URI: http://trog.qgl.org/http2img
-Description: HTTP/2 image serving
+Description: Provide HTTP/2 Server Push for WordPress images
 Author: trogau
 Version: 0.1.0
 Author URI: http://trog.qgl.org
